@@ -13,7 +13,6 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 Files used
 chicago.csv
 new_york_city.csv
-<<<<<<< HEAD
 washington.csv
 
 Programming Language used
@@ -28,9 +27,6 @@ Resources helped me to complete the project:
 pandas: powerful Python data analysis toolkit (BOOK)
 2-youtube
 
-washington.csv
-
-washington.csv
 
 Libraries used
 pandas time
