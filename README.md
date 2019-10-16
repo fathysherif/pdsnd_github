@@ -8,11 +8,12 @@ Over the past decade, bicycle-sharing systems have been growing in number and po
 
 Thanks to the rise in information technologies, it is easy for a user of the system to access a dock within the system to unlock or return bicycles. These technologies also provide a wealth of data that can be used to explore how these bike-sharing systems are used.
 
-In this project, This Project will use data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
+
 
 Files used
 chicago.csv
 new_york_city.csv
+<<<<<<< HEAD
 washington.csv
 
 Programming Language used
@@ -26,3 +27,11 @@ Resources helped me to complete the project:
 
 pandas: powerful Python data analysis toolkit (BOOK)
 2-youtube
+
+washington.csv
+
+washington.csv
+
+Libraries used
+pandas time
+
